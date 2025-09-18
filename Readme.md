@@ -24,14 +24,14 @@ This repository contains benchmark results of recent object detection models on 
 | :---: | :---: | :---: | :---: | :---: |
 |  | **mAP@50** | **FPS** | **mAP@50** | **FPS** |
 | YOLOv5l | 0.723 | 370 | 0.742 | 188 |
-| YOLOv6v3l | **0.770** | 436 | **0.770** | 168 |
+| YOLOv6v3l | <span style="font-weight: 900; font-size: 1.1em;">**0.770**</span> | 436 | <span style="font-weight: 900; font-size: 1.1em;">**0.770**</span> | 168 |
 | YOLOv7 | 0.744 | 500 | 0.682 | 256 |
 | YOLOv8l | 0.726 | 357 | 0.734 | 161 |
 | RT-DETR-l | 0.698 | 333 | 0.686 | 158 |
 | YOLOv9e | 0.759 | 227 | 0.758 | 75 |
 | YOLOv10l | 0.731 | 588 | 0.745 | 294 |
-| YOLOv11n | 0.738 | 1009 | 0.753 | **840** |
-| YOLOv11s | 0.721 | **1096** | 0.743 | 490 |
+| YOLOv11n | 0.738 | 1009 | 0.753 | <span style="font-weight: 900; font-size: 1.1em;">**840**</span> |
+| YOLOv11s | 0.721 | <span style="font-weight: 900; font-size: 1.1em;">**1096**</span> | 0.743 | 490 |
 | YOLOv11m | 0.717 | 819 | 0.734 | 284 |
 | YOLOv11l | 0.734 | 800 | 0.730 | 229 |
 
@@ -47,12 +47,12 @@ This repository contains benchmark results of recent object detection models on 
 |  | **mAP@50** | **FPS** | **mAP@50** | **FPS** |
 | YOLOv5l | 0.685 | 344 | 0.691 | 238 |
 | YOLOv6v3l | 0.676 | 431 | 0.700 | 221 |
-| YOLOv7 | 0.704 | 454 | **0.726** | 344 |
+| YOLOv7 | 0.704 | 454 | <span style="font-weight: 900; font-size: 1.1em;">**0.726**</span> | 344 |
 | YOLOv8l | 0.613 | 322 | 0.680 | 238 |
 | RT-DETR-l | 0.682 | 277 | 0.702 | 156 |
-| YOLOv9e | **0.710** | 285 | 0.713 | 129 |
+| YOLOv9e | <span style="font-weight: 900; font-size: 1.1em;">**0.710**</span> | 285 | 0.713 | 129 |
 | YOLOv10l | 0.666 | 370 | 0.673 | 322 |
-| YOLOv11n | 0.668 | **2364** | 0.716 | **1550** |
+| YOLOv11n | 0.668 | <span style="font-weight: 900; font-size: 1.1em;">**2364**</span> | 0.716 | <span style="font-weight: 900; font-size: 1.1em;">**1550**</span> |
 | YOLOv11s | 0.638 | 2252 | 0.697 | 1103 |
 | YOLOv11m | 0.635 | 1543 | 0.691 | 555 |
 | YOLOv11l | 0.657 | 1317 | 0.675 | 467 |
@@ -71,9 +71,9 @@ This repository contains benchmark results of recent object detection models on 
 | YOLOv7 | 0.767 | 625 | 0.623 | 476 |
 | YOLOv8l | 0.754 | 500 | 0.833 | 303 |
 | RT-DETR-l | 0.794 | 285 | 0.805 | 175 |
-| YOLOv9e | **0.799** | 416 | 0.838 | 188 |
+| YOLOv9e | <span style="font-weight: 900; font-size: 1.1em;">**0.799**</span> | 416 | 0.838 | 188 |
 | YOLOv10l | 0.752 | 625 | 0.822 | 434 |
-| YOLOv11n | 0.723 | **3021** | **0.857** | **2277** |
+| YOLOv11n | 0.723 | <span style="font-weight: 900; font-size: 1.1em;">**3021**</span> | <span style="font-weight: 900; font-size: 1.1em;">**0.857**</span> | <span style="font-weight: 900; font-size: 1.1em;">**2277**</span> |
 | YOLOv11s | 0.752 | 2695 | 0.843 | 1517 |
 | YOLOv11m | 0.776 | 1858 | 0.839 | 751 |
 | YOLOv11l | 0.774 | 1650 | 0.842 | 621 |
