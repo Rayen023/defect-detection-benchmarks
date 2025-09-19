@@ -88,9 +88,6 @@ This repository contains benchmark results of recent object detection models on 
   booktitle={2024 IEEE Canadian Conference on Electrical and Computer Engineering (CCECE)}, 
   title={Real-time defect detection systems for steel and wood inspection}, 
   year={2024},
-  volume={},
-  number={},
   pages={577-582},
-  keywords={YOLO;Accuracy;Inspection;Feature extraction;Transformers;Real-time systems;Raw materials;Object detection;Surface defects;YOLO;DETR},
   doi={10.1109/CCECE59415.2024.10667164}}
 ```
